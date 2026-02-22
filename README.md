@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Yassin Haddani
 
-<!--
-**yassin-haddani/yassin-haddani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bac Pro CIEL – Cybersécurité, Informatique et Réseaux  
+🎯 Futur BTS SIO SISR (2026–2028) – Recherche d’alternance (Lyon & périphérie)
 
-Here are some ideas to get you started:
+## 💻 Compétences en progression
+- 🌐 Réseaux : VLAN, TCP/IP, DHCP, DNS
+- 🖥️ Configuration via console (PuTTY)
+- 🐧 Linux : commandes de base, réseau, SSH
+- 📦 Virtualisation : notions VMware / Hyper-V
+- 🔧 Diagnostic et maintenance informatique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets réalisés
+- Déploiement et configuration de VLAN
+- Câblage RJ45 & baie de brassage
+- Tests de connectivité (ping, configuration IP)
+
+---
+
+📫 Contact : via LinkedIn
