@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 # 👋 Salut, moi c'est Yassin
 
 🎓 Futur BTS SIO SISR  
