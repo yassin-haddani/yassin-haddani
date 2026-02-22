@@ -1,35 +1,29 @@
-<p align="center">
-  <img src="banner.png" />
-</p>
+<img src="banner.png" width="100%" />
 
 # 👋 Salut, moi c'est Yassin
 
 🎓 Futur BTS SIO SISR  
-💻 Réseaux & Systèmes  
+💻 Passionné par les Réseaux & Systèmes  
 📍 Lyon, France  
+🚀 Recherche alternance 2026  
 
 ---
 
 ## 📬 Me contacter
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:yassinchj09@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinchj09@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassin-haddani-3940173b2
-)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
-## 🛠️ Compétences
+## 🛠 Compétences
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=for-the-badge&logo=virtualbox)
-
----
-
-## 📊 Statistiques GitHub
-
-![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassin-haddani&show_icons=true&theme=tokyonight)
+![TCP/IP](https://img.shields.io/badge/TCP-IP-grey?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-network-blue?style=for-the-badge)
 
 ---
 
@@ -37,3 +31,15 @@
 
 - 🔐 Projet Linux SSH
 - 🌐 Projet VLAN Bac Pro
+- 🖥️ Projet Active Directory
+- 🛜 Projet DHCP & DNS
+- 🔒 Projet Firewall / Sécurité réseau
+- 🐧 Installation serveur Linux
+- 📦 Virtualisation avec VirtualBox
+- 🧪 Lab réseau Cisco Packet Tracer
+
+---
+
+## 🎯 Objectif
+
+Devenir Administrateur Systèmes & Réseaux et évoluer vers l’ingénierie réseau.
