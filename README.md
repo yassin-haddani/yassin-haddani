@@ -13,7 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinchj09@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yassin-haddani-3940173b2/])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-haddani-3940173b2/)
 
 ---
 
