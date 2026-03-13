@@ -17,16 +17,21 @@
 
 ---
 
-## 🛠 Compétences
+---
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=for-the-badge&logo=virtualbox)
-![TCP/IP](https://img.shields.io/badge/TCP-IP-grey?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-network-blue?style=for-the-badge)
+## 🛠️ Outils
+
+![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassin-haddani&show_icons=true&theme=tokyonight)
 ## 🚀 Projets principaux
 
 - 🔐 Projet Linux SSH
